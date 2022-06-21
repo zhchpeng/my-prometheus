@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
+FROM drud/nginx-vts-exporter:v0.9.1
 MAINTAINER zh
